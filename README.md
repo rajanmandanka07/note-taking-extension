@@ -19,6 +19,13 @@ This Chrome extension allows you to quickly jot down notes while browsing the we
 ## Screenshot
 ![Screenshot 2024-05-18 103852](https://github.com/rajanmandanka07/note-taking-extension/assets/119439834/9e8b5438-1c0b-451d-82bc-cc90300c8613)
 
+![Screenshot 2024-05-18 103740](https://github.com/rajanmandanka07/note-taking-extension/assets/119439834/ed689e6d-43e2-4197-ad88-7021d0cdf43b)
+
+![Screenshot 2024-05-18 103752](https://github.com/rajanmandanka07/note-taking-extension/assets/119439834/1f1d3aaf-68ca-4388-bde1-2bbbe50476ba)
+
+![Screenshot 2024-05-18 103829](https://github.com/rajanmandanka07/note-taking-extension/assets/119439834/422a63fc-d9ef-4f4c-b629-cb95568cab53)
+
+![Screenshot 2024-05-18 103844](https://github.com/rajanmandanka07/note-taking-extension/assets/119439834/de3936e7-3715-4f23-b5d8-4005124267ac)
 
 ## Usage
 
