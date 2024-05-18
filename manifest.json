@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Note Taking Extension",
+  "version": "1.0",
+  "description": "Quickly jot down notes while browsing the web.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "notes.png",
+      "48": "notes.png",
+      "128": "notes.png"
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "notes.png",
+    "48": "notes.png",
+    "128": "notes.png"
+  }
+}
